@@ -1,6 +1,6 @@
 { "@context" : "http://schema.org",
   "@type" : "Organization",
   "name" : "Serarols & Associats",
-  "url" : "http://www.clausulasol.cat/",
-  "logo": "http://www.clausulasol.cat/images/touch/icon-64x64.png"
+  "url" : "https://www.clausulasol.cat/",
+  "logo": "https://www.clausulasol.cat/images/touch/icon-64x64.png"
 }

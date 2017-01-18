@@ -18,7 +18,7 @@ keywords: "Serarols & Associats, Estudi Jurídic Econòmic, Berga, clausula, sò
 phone: "93 8214139"
 place: "Carrer d'Argentona, 55 | 08302 Berga (Barcelona)"
 baseurl:
-url: http://www.clausulasol.cat
+url: https://www.clausulasol.cat
 logoWeb: images/eje-web-clausula-540x128.png 
 faviconWeb: favicon.png
 twitter_username: freecates
@@ -36,7 +36,7 @@ author:
 #Custom vars
 portfoli-author:
  name: "Serarols & Associats"
- url: http://www.clausulasol.cat/
+ url: https://www.clausulasol.cat/
 organitza:
   eje:
     description:  "Estudi Jurídic Econòmic - Serarols & Associats"

@@ -1,7 +1,7 @@
 - name: "Conesa Pagès Advocats"
   address: "Ctra. de Sant Cugat, 63 | 08191 Rubí (Barcelona)"
   place: "Conesa Pagès Advocats"
-  url: http://www.clausulasol.cat/
+  url: https://www.clausulasol.cat/
   phone: '0034935458615'
   email: advocats@conesapages.com
   getdirections: "https://www.google.cat/maps/dir//Ctra.+de+Sant+Cugat,+63,+08191+Rubí,+Barcelona/"
@@ -13,7 +13,7 @@
   place: "Serarols & Associats"
   description: "<p><strong>Serarols & Associats</strong> i <strong>Conesa Pagès Advocats</strong>, experts i professionals en Dret, Finances i Fiscalitat des de 1984.</p>\n<p>T’oferim solucions extrajudicials i judicials davant els abusos i la mala praxi bancària. Som especialistes en despeses de formalització, IRPH, multidivisa, dació en
 pagament, comissions, SWAPS, execucions hipotecàries, renegociacions de deute...</p>\n"
-  url: http://www.clausulasol.cat/
+  url: https://www.clausulasol.cat/
   phone: '0034938214139'
   email: info@estudieconomic.com
   facebook: https://www.facebook.com/SerarolsAssociats/
