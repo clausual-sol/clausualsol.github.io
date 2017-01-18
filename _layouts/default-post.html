@@ -1,0 +1,23 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="ca">
+
+{% include head.html %}
+
+<body unresolved id="page-top" data-spy="scroll" data-target=".navbar-fixed-top" >
+
+    {% include header-post.html %}
+    <section id="obres" class="content-section purple-bg__full">
+		<div class="container">
+			{{ content }}
+		</div>
+	</section>
+    {% include footer.html %}
+    {% include aside.html %}
+
+</body>
+
+</html>

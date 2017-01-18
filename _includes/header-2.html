@@ -1,0 +1,41 @@
+<!-- Intro Header -->
+{% for article in site.data.articles %}
+    <header class="intro intro-{{ article.id }}" id="{{ article.id }}">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <blockquote class="blockquote-bg">
+                            <p class="lead">{{ article.description }}</p>
+                            <p>{{ article.description-2 }}</p>
+                            <p>{{ article.description-3 }}</p>
+                        </blockquote>
+                        {% if article.post == 'true' %}
+                        <hr/><div class="social-share text-center">
+                          <ul class="socialcount socialcount-small inline-list">
+                            <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ article.mainEntityOfPage.id }}" title="Share on Facebook"><span class="count"><i class="fa fa-facebook"></i> Like</span></a></li>
+                            <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{article.headline | strip_html | strip_newlines | truncate: 70 | uri_escape }}%20{{site.twitter-sentence | replace:"'","\'" | uri_escape}}&url={{ site.url }}{{article.mainEntityOfPage.id | replace:"'","\'" | uri_escape}}" title="Share on Twitter"><span class="count"><i class="fa fa-twitter"></i> Tweet</span></a></li>
+                            <li class="googleplus"><a href="https://plus.google.com/share?url={{ site.url }}{{ article.mainEntityOfPage.id }}" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus"></i> +1</span></a></li>
+                          </ul>
+                        </div><hr/>
+                        {% endif %}
+                        {% if forloop.last != true %}
+                        <p class="text-center">
+                            <a href="#{{ article.id | plus: 1 }}" class="btn btn-circle page-scroll">
+                                <i class="fa fa-angle-double-down animated"></i>
+                            </a>
+                        </p>
+                        {% endif %}
+                        {% if forloop.last == true %}
+                        <p class="text-center">
+                            <a href="#download" class="btn btn-circle page-scroll">
+                                <i class="fa fa-angle-double-down animated"></i>
+                            </a>
+                        </p>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+{% endfor %}

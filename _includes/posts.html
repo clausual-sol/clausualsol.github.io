@@ -1,0 +1,29 @@
+    <!-- Portfoli Section -->
+    <section id="bibliotecadigital" class="content-section text-center no-padding">
+        <div class="portfoli-section portfoli-section-figura-i-retrat-simboliques">
+            <div class="purple-bg">
+                <div class="container">
+                  <h2>Biblioteca <span class="light">Digital</span></h2>
+                  <div>    
+                      {% for bibliotecadigital in site.data.obres.bibliotecadigitals %}
+                          <div class="portfolio-item text-center">
+                              <a href="#portfolioModal-{{ bibliotecadigital.id }}" class="portfolio-link" data-toggle="modal">
+                              <!-- <a href="http://cataleg.eje.cat:8000/cgi-bin/gw_2010_4/chameleon" class="portfolio-link"> -->
+                                  <div class="caption">
+                                      <div class="caption-content">
+                                          <i class="fa fa-search-plus fa-3x"></i>
+                                      </div>
+                                  </div>
+                                  <figure class="no-margin">
+                                    <div class="padding-artwork-container">
+                                      <p><i class="fa fa-user"></i> Accés a la Biblioteca Digital</p>
+                                    </div>
+                                </figure>
+                              </a>
+                          </div>
+                      {% endfor %}
+                  </div>
+                </div>
+            </div>
+          </div>
+    </section>

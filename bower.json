@@ -1,0 +1,30 @@
+{
+  "name": "www.clausulasol.cat",
+  "authors": [
+    "freecates <ramongil@ramongil.cat>"
+  ],
+  "description": "Serarols & Associats",
+  "main": "/index.html",
+  "moduleType": [],
+  "keywords": [
+    "casa",
+    "coll",
+    "regpas",
+    "iluro",
+    "Berga"
+  ],
+  "license": "MIT",
+  "homepage": "www.clausulasol.cat",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "google-map": "GoogleWebComponents/google-map#^1.1.10",
+    "iron-image": "PolymerElements/iron-image#^1.2.3"
+  }
+}

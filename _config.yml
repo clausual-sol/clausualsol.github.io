@@ -1,0 +1,59 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+
+excerpt_separator: <!--more-->
+
+# Permalinks
+permalink:        pretty
+
+# Site settings
+title: 'Serarols & Associats - Estudi Jurídic Econòmic - Berga'
+email: casacolliregas@eje.cat
+description: "La teva hipoteca té <strong>clàusula sòl?</strong>"
+second-description: "Saps quins son els teus <strong>drets</strong>?"
+third-description: "Vols <strong>reclamar</strong> tot allò que és teu amb les <strong>màximes garanties</strong> possibles?"
+keywords: "Serarols & Associats, Estudi Jurídic Econòmic, Berga, clausula, sòl"
+phone: "93 8214139"
+place: "Carrer d'Argentona, 55 | 08302 Berga (Barcelona)"
+baseurl:
+url: http://www.clausulasol.cat
+logoWeb: images/eje-web-clausula-540x128.png 
+faviconWeb: favicon.png
+twitter_username: freecates
+github_username:  freecates
+twitter:          eje
+twitter-sentence: "| Gaudiu #CasaColliRegas via @eje"
+
+sass:
+ style: compressed
+
+author:
+  name:           'Ramon Gil'
+  url:            https://twitter.com/freecates
+
+#Custom vars
+portfoli-author:
+ name: "Serarols & Associats"
+ url: http://www.clausulasol.cat/
+organitza:
+  eje:
+    description:  "Estudi Jurídic Econòmic - Serarols & Associats"
+    logo: "eje-serarols-associats-organitzadors-clausula-sol-footer.jpg"
+    url: http://www.estudieconomic.com/
+  conesa:
+    description:  "Conesa Pagès Advocats"
+    logo: "conesa-pages-advocats-organitzadors-clausula-sol-footer.jpg"
+    url: http://www.conesapages.com/
+
+colabora:
+  oxygen:
+    description:  "Made with love at Oxygen"
+    logo: "oxygen-partner-figura-i-retrat-footer.png"
+    url:  "http://www.oxygen.cat/"
+
+sale-end: '2014-12-31T00:00:00+01:00'
+
+bower_components: 
+  baseurl: /bower_components/

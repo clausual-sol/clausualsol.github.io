@@ -1,0 +1,78 @@
+   <link rel="import"
+      href="{{ site.url }}/bower_components/google-map/google-map.html">
+  <link rel="import"
+      href="{{ site.url }}/bower_components/iron-image/iron-image.html">
+
+        <link rel="stylesheet" href="{{ site.url }}/styles/main.css">
+    
+    <link href="{{ site.url }}/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- jQuery -->
+    <script src="{{ site.url }}/scripts/jquery-1.11.0.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="{{ site.url }}/scripts/bootstrap.min.js" async></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="{{ site.url }}/scripts/jquery.easing.min.js" async></script>
+    <!-- Custom Theme JavaScript -->
+    <script src="{{ site.url }}/scripts/grayscale.min.js" async></script>
+
+
+
+{% if page.class == 'article' %}
+  {% assign article_data = site.data.articles | where:"id", page.article %}
+  {% assign article = article_data | first %}
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "{{ article.type }}",
+    "mainEntityOfPage":{
+      "@type":"{{ article.mainEntityOfPage.type }}",
+      "@id":"{{ site.url }}{{ article.mainEntityOfPage.id }}"
+    },
+    "headline": "{{ article.headline }}",
+    "image": {
+      "@type": "{{ article.image.type }}",
+      "url": "{{ site.url }}{{ article.image.url }}",
+      "height": {{ article.image.height }},
+      "width": {{ article.image.width }}
+    },
+    "datePublished": "{{ article.datePublished }}",
+    "dateModified": "{{ article.dateModified }}",
+    "author": {
+      "@type": "{{ article.author.type }}",
+      "name": "{{ article.author.name }}"
+    },
+     "publisher": {
+      "@type": "{{ article.publisher.type }}",
+      "name": "{{ article.publisher.name }}",
+      "logo": {
+        "@type": "{{ article.publisher.logo.type }}",
+        "url": "{{ site.url }}{{ article.publisher.logo.url }}",
+        "width": {{ article.publisher.logo.width }},
+        "height": {{ article.publisher.logo.height }}
+      }
+    },
+    "description": "{{ article.description }}"
+  }
+  </script>
+{% endif %}
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47226335-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+  {% if page.title == 'Home' %}
+  <script type="application/ld+json">
+  {{ site.data.social-profile | jsonify }}
+  </script>
+  {% endif %}

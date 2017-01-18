@@ -1,0 +1,50 @@
+<!-- Footer -->
+<footer class="no-padding">
+
+  <div class="footer-section">
+
+    <div class="yellow-bg">
+                <div class="container container-bg text-center">
+
+                    <hr/>
+                    {% for place in site.data.places %}
+                    <div class="text-left">
+                    {{ place.description }}
+                    </div>
+                    {% endfor %}
+
+                    <div class="row">
+
+                        <div class="col-md-6">
+
+                    
+                        <a href="{{ site.organitza.conesa.url }}"><img src="{{ site.url }}/images/{{ site.organitza.conesa.logo }}" alt="{{ site.organitza.conesa.description }}" title="{{ site.organitza.conesa.description }}"></a>
+                    
+                        {% for place in site.data.places |limit: 1 offset: 0 %}
+                        <div class="address"><p><small><strong>Adreça:</strong> {{ place.address }} - <strong>Telèfon:</strong> {{ place.phone | slice: 4, 9 }} - <a href="{{ place.url }}" title="{{ place.name }}" rel="external"><i class="fa fa-external-link"></i></a> | <a href="mailto:{{ place.email }}" title="Correu-e {{ place.email }}" rel="external"><i class="fa fa-envelope"></i></a></small></p></div>
+                        {% endfor %}
+
+                        </div>
+
+                        <div class="col-md-6">
+
+                    
+                        <a href="{{ site.organitza.eje.url }}"><img src="{{ site.url }}/images/{{ site.organitza.eje.logo }}" alt="{{ site.organitza.eje.description }}" title="{{ site.organitza.eje.description }}"></a>
+                    
+                        {% for place in site.data.places |limit: 1 offset: 1 %}
+                        <div class="address"><p><small><strong>Adreça:</strong> {{ place.address }} - <strong>Telèfon:</strong> {{ place.phone | slice: 4, 9 }} - <a href="{{ place.url }}" title="{{ place.name }}" rel="external"><i class="fa fa-external-link"></i></a> | <a href="mailto:{{ place.email }}" title="Correu-e {{ place.email }}" rel="external"><i class="fa fa-envelope"></i></a> | <a href="{{ place.facebook }}" title="Facebook de {{ place.name }}" rel="external"><i class="fa fa-facebook"></i></a></small></p></div>
+                        {% endfor %}
+
+                        </div>
+
+                    </div>
+
+                    <hr/>
+
+                    <p>Copyright &copy; {{ site.title }}</p>
+
+                </div>
+
+  </div>
+
+</footer>

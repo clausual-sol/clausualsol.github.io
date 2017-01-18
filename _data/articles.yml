@@ -1,0 +1,377 @@
+- context: "http://schema.org"
+  type: "Article"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "/articles/2016/04/21/joaquim-coll-i-regas-va-neixer-a-mataro-l-any-1855/"
+  headline: "Joaquim Coll i Regàs va néixer a Berga l’any 1855"
+  image: 
+    type: "ImageObject"
+    url: "/images/02-casa-coll-i-regas-web.jpg"
+    height: 1539
+    width: 1024
+  datePublished: "2016-04-21T11:37:00+02:00"
+  dateModified: "2016-04-21T11:37:00+02:00"
+  author: 
+    type: "Person"
+    name: "Manel Salicrú i Puig"
+  publisher: 
+    type: "Organization"
+    name: "Estudi Jurídic Econòmic"
+    logo: 
+      type: "ImageObject"
+      url: "/iamges/logo-fundacio-iluro-amp.png"
+      width: 600
+      height: 60
+  description: "Joaquim Coll i Regàs va néixer a Berga l’any 1855. El seu pare i el seu avi Coll eren sastres. L’avi matern Feliciano Regàs era fabricant."
+  description-2: "L’any 1880 Joaquim Coll i Regàs es va casar a l’església de Sant Josep amb Magdalena Surià i Prats. Entre els anys 1882 i 1889 el matrimoni va tenir sis fills."
+  description-3: "Va decidir de construir una casa familiar. Per això l’any 1896 va comprar dues cases al carrer d’Argentona i immediatament edificà la seva de nova planta d’acord amb el projecte redactat per l’arquitecte Josep Puig i Cadafalch, que quedà enllestida l’any 1898."
+  post: "true"
+  id: 02
+- context: "http://schema.org"
+  type: "Article"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "/articles/2016/04/22/joaquim-coll-i-regas-va-continuar-l-empresa-del-seu-avi-i-dels-seus-oncles-materns/"
+  headline: "Joaquim Coll i Regàs va continuar l’empresa del seu avi i dels seus oncles materns"
+  image: 
+    type: "ImageObject"
+    url: "/images/03-casa-coll-i-regas-web.jpg"
+    height: 1539
+    width: 1024
+  datePublished: "2016-04-21T11:37:00+02:00"
+  dateModified: "2016-04-21T11:37:00+02:00"
+  author: 
+    type: "Person"
+    name: "Manel Salicrú i Puig"
+  publisher: 
+    type: "Organization"
+    name: "Estudi Jurídic Econòmic"
+    logo: 
+      type: "ImageObject"
+      url: "/iamges/logo-fundacio-iluro-amp.png"
+      width: 600
+      height: 60
+  description: "Joaquim Coll i Regàs va continuar l’empresa del seu avi i dels seus oncles materns, que, a la vegada era successora de la creada a inicis del segle XIX per l’enginyer Antoni Regàs i Borrell (Berga 1752-1837), qui va inventar una màquina de filar. La fàbrica Coll i Regàs tenia el nom comercial de Sobrino de Antonio Regàs."
+  description-2: "Era una de les empreses més importants de Berga a la fi del segle XIX, tenia sis-cents treballadors."
+  description-3: "L’empresa va ésser la primera de Berga que va donar prestacions socials als seus treballadors en cas de malaltia o accident, i a les obreres casades en ocasió dels parts."
+  post: "true"
+  id: 03
+- context: "http://schema.org"
+  type: "Article"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "/articles/2016/04/22/el-1897-pere-comas-va-demanar-permis-a-l-ajuntament-de-mataro-per-a-renovar-les-cases/"
+  headline: "El 12 de maig de 1897 Pere Comas, paleta, veí de Berga, va demanar permís a l’Ajuntament de Berga per a renovar totalment les cases"
+  image: 
+    type: "ImageObject"
+    url: "/images/04-casa-coll-i-regas-web.jpg"
+    height: 1539
+    width: 1024
+  datePublished: "2016-04-21T11:37:00+02:00"
+  dateModified: "2016-04-21T11:37:00+02:00"
+  author: 
+    type: "Person"
+    name: "Manel Salicrú i Puig"
+  publisher: 
+    type: "Organization"
+    name: "Estudi Jurídic Econòmic"
+    logo: 
+      type: "ImageObject"
+      url: "/iamges/logo-fundacio-iluro-amp.png"
+      width: 600
+      height: 60
+  description: "El 12 de maig de 1897 Pere Comas, paleta, veí de Berga, va demanar permís a l’Ajuntament de Berga per a renovar totalment  les cases núm. 55 i 57 del carrer d’Argentona, les dues cases que Joaquim Coll i Regàs havia adquirit l’any anterior."
+  description-2: "Curiosament aquests plànols del projecte són signats per l’arquitecte Antoni Gallissà (Barcelona, 1861-1903)."
+  description-3: "El projecte inclou un edifici de quatre plantes, soterrani, planta baixa, primer pis i golfes, tot construït de bell nou. El planejament seguia la tradició dels casals de la burgesia urbana de Berga, i en aquest sentit és l’únic casal construït a la ciutat en època modernista."
+  post: "true"
+  id: 04
+- context: "http://schema.org"
+  type: "Article"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "/articles/2016/04/22/la-planta-baixa-era-la-planta-noble-un-ample-vestibul-obert-a-l-entrada-des-del-carrer/"
+  headline: "La planta baixa era la planta noble. Un ample vestíbul, obert a l’entrada des del carrer"
+  image: 
+    type: "ImageObject"
+    url: "/images/05-casa-coll-i-regas-web.jpg"
+    height: 1539
+    width: 1024
+  datePublished: "2016-04-21T11:37:00+02:00"
+  dateModified: "2016-04-21T11:37:00+02:00"
+  author: 
+    type: "Person"
+    name: "Manel Salicrú i Puig"
+  publisher: 
+    type: "Organization"
+    name: "Estudi Jurídic Econòmic"
+    logo: 
+      type: "ImageObject"
+      url: "/iamges/logo-fundacio-iluro-amp.png"
+      width: 600
+      height: 60
+  description: "La planta baixa era la planta noble. Un ample vestíbul, obert a l’entrada des del carrer, donava accés als espais de relació, sala de rebre i despatx, situats de cara a la façana, i s’ampliava cap a l’interior, on, en posició central, hi havia situada l’escala d’accés a la planta pis, en un àmbit il·luminat per una extensa claraboia."
+  description-2: "Després venien les zones de vida familiar, el menjador, la cuina i el dormitori principal, amb toilette o bany annex, dependències encarades a la façana posterior a través d’una galeria coberta, des de la qual, a través d’una gran terrassa, s’accedia al jardí."
+  description-3: 
+  post: "true"
+  id: 05
+- context: "http://schema.org"
+  type: "Article"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "/articles/2016/04/22/l-escala-principal-es-feta-de-marbre-en-les-esteses-que-son-complementades-amb-peces-ceramiques-en-les-alcades/"
+  headline: "L’escala principal és feta de marbre en les esteses, que són complementades amb peces ceràmiques en les alçades"
+  image: 
+    type: "ImageObject"
+    url: "/images/06-casa-coll-i-regas-web.jpg"
+    height: 1539
+    width: 1024
+  datePublished: "2016-04-21T11:37:00+02:00"
+  dateModified: "2016-04-21T11:37:00+02:00"
+  author: 
+    type: "Person"
+    name: "Manel Salicrú i Puig"
+  publisher: 
+    type: "Organization"
+    name: "Estudi Jurídic Econòmic"
+    logo: 
+      type: "ImageObject"
+      url: "/iamges/logo-fundacio-iluro-amp.png"
+      width: 600
+      height: 60
+  description: "L’escala principal és feta de marbre en les esteses, que són complementades amb peces ceràmiques en les alçades... El gran vestíbul que dóna accés a l’escala s’amplia visualment amb la incorporació, a cada banda, de columnes de marbre, amb capitells decorats amb motius vegetals, que suporten falsos arcs escalonats, repetits més d’una vegada a l’edifici."
+  description-2: "Els esgrafiats del vestíbul de l’escala incorporen a una banda un vaixell, possible expressió del comerç, i a l’altra la roda dentada símbol de la indústria.  Els paviments són de mosaic hidràulic possiblement fet per la casa Escofet de Barcelona."
+  description-3: "La fusteria, de disseny modernista, incorpora vidres emplomats i, en la planta baixa, es complementa amb aplacats ceràmics."
+  post: "true"
+  id: 06
+- context: "http://schema.org"
+  type: "Article"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "/articles/2016/04/25/la-facana-del-carrer-de-ritme-neogotic-va-incorporar-la-socolada-el-portal-la-gran-tribuna-de-la-planta-pis-i-tots-els-finestrals/"
+  headline: "La façana del carrer, de ritme neogòtic, va incorporar la socolada, el portal, la gran tribuna de la planta pis, i tots els finestrals amb pedra de Montjuïc."
+  image: 
+    type: "ImageObject"
+    url: "/images/07-casa-coll-i-regas-web.jpg"
+    height: 1539
+    width: 1024
+  datePublished: "2016-04-21T11:37:00+02:00"
+  dateModified: "2016-04-21T11:37:00+02:00"
+  author: 
+    type: "Person"
+    name: "Manel Salicrú i Puig"
+  publisher: 
+    type: "Organization"
+    name: "Estudi Jurídic Econòmic"
+    logo: 
+      type: "ImageObject"
+      url: "/iamges/logo-fundacio-iluro-amp.png"
+      width: 600
+      height: 60
+  description: "La façana del carrer, de ritme neogòtic, va incorporar la socolada, el portal, la gran tribuna de la planta pis, i tots els finestrals amb pedra de Montjuïc, esculturada per Eusebi Arnau."
+  description-2: "Les reixes dels finestrals de la planta baixa, possiblement obrades a Barcelona, als tallers de Manuel Ballarin, col·laborador habitual de Puig i Cadafalch, incorporen peces característiques de la maquinària del gènere de punt."
+  description-3: "La façana es va acabar amb esgrafiats i aplacats de rajoles decorades, que ressalten sobretot en el gran frontó de sobre la tribuna. Un ràfec a la catalana remata l’edifici."
+  post: "true"
+  id: 07
+- context: "http://schema.org"
+  type: "Article"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "/articles/2016/04/25/dues-llegendes-escrites-en-rajoles-decorades-totes-dues-partides-en-dos-trams-una-a-la-facana-del-carrer/"
+  headline: "Dues llegendes escrites en rajoles decorades, totes dues partides en dos trams, una a la façana del carrer"
+  image: 
+    type: "ImageObject"
+    url: "/images/08-casa-coll-i-regas-web.jpg"
+    height: 1539
+    width: 1024
+  datePublished: "2016-04-21T11:37:00+02:00"
+  dateModified: "2016-04-21T11:37:00+02:00"
+  author: 
+    type: "Person"
+    name: "Manel Salicrú i Puig"
+  publisher: 
+    type: "Organization"
+    name: "Estudi Jurídic Econòmic"
+    logo: 
+      type: "ImageObject"
+      url: "/iamges/logo-fundacio-iluro-amp.png"
+      width: 600
+      height: 60
+  description: "Dues llegendes escrites en rajoles decorades, totes dues partides en dos trams, una a la façana del carrer i l’altra al vestíbul de l’escala de la planta pis, resumeixen la filosofia de l’edifici. A la façana es llegeix “Molt bo és viatjar – millor a casa estar”. Aquí cal dir que Joaquim Coll i Regàs viatjava contínuament a Espanya i a Europa. "
+  description-2: "A l’accés de l’escala del pis es pot llegir “La casa que es treballa – no hi falta gra ni palla”, precisament en la zona que és també l’accés al menjador."
+  description-3: "Puig i Cadafalch era molt conscient que construïa una casa per a un fabricant tèxtil. Per això, a tot arreu, en esgrafiats, vidres emplomats i rajoles, introdueix com a emblemes una flor, que cal suposar és la flor del cotó, i la roda dentada de la maquinària tèxtil."
+  post: "true"
+  id: 8
+- context: "http://schema.org"
+  type: "Article"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "/articles/2016/04/25/el-24-d-agost-de-1909-els-sis-germans-coll-i-suria-la-varen-vendre-a-antonio-fontdevila-i-prat/"
+  headline: "El 24 d’agost de 1909 els sis germans Coll i Surià la varen vendre a Antonio Fontdevila i Prat."
+  image: 
+    type: "ImageObject"
+    url: "/images/09-casa-coll-i-regas-web.jpg"
+    height: 1539
+    width: 1024
+  datePublished: "2016-04-21T11:37:00+02:00"
+  dateModified: "2016-04-21T11:37:00+02:00"
+  author: 
+    type: "Person"
+    name: "Manel Salicrú i Puig"
+  publisher: 
+    type: "Organization"
+    name: "Estudi Jurídic Econòmic"
+    logo: 
+      type: "ImageObject"
+      url: "/iamges/logo-fundacio-iluro-amp.png"
+      width: 600
+      height: 60
+  description: "El 24 d’agost de 1909 els sis germans Coll i Surià la varen vendre a Antonio Fontdevila i Prat, fabricant, veí de Berga, que s’hi instal·là amb la seva família."
+  description-2: "El 5 de maig de 1967 la Caixa d’Estalvis i Mont de Pietat de Berga va comprar la finca a Manel Fontdevila i Casti. El 6 de juliol de 1992 la propietat de la casa, sense el pati, es va transferir a la Fundació Cultural Laietana, Fundació Privada."
+  description-3: "Avui és propietat de la Estudi Jurídic Econòmic. "
+  post: "true"
+  id: 9
+- context: "http://schema.org"
+  type: "Article"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "/articles/2016/04/23/josep-puig-i-cadafalch-va-neixer-a-mataro-el-17-d-octubre-de-1867-a-la-casa-num-39-del-carrero/"
+  headline: "Josep Puig i Cadafalch va néixer a Berga el 17 d’octubre de 1867 a la casa núm. 39 del Carreró"
+  image: 
+    type: "ImageObject"
+    url: "/images/10-casa-coll-i-regas-web.jpg"
+    height: 1539
+    width: 1024
+  datePublished: "2016-04-21T11:37:00+02:00"
+  dateModified: "2016-04-21T11:37:00+02:00"
+  author: 
+    type: "Person"
+    name: "Manel Salicrú i Puig"
+  publisher: 
+    type: "Organization"
+    name: "Estudi Jurídic Econòmic"
+    logo: 
+      type: "ImageObject"
+      url: "/iamges/logo-fundacio-iluro-amp.png"
+      width: 600
+      height: 60
+  description: "Josep Puig i Cadafalch va néixer a Berga el 17 d’octubre de 1867 a la casa núm. 39 del Carreró, la casa familiar dels Puig, que en deien can Pere Sastre. El pare, Joan Puig i Bruguera, tenia un petit taller de fabricació artesana de puntes. La mare havia nascut a la casa pairal dels Cadafalch a Sant Llorenç Savall."
+  description-2: "Josep Puig i Cadafalch comença a treballar com a arquitecte tant a Berga com a Barcelona. És arquitecte municipal de Berga entre 1892 i 1896. Com arquitecte municipal cuida de la urbanització de molts carrers i modifica, modernitza i amplia la xarxa de clavegueres."
+  description-3: 
+  post: "true"
+  id: 10
+- context: "http://schema.org"
+  type: "Article"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "/articles/2016/04/25/a-mataro-despres-d-haver-deixat-el-carrec-d-arquitecte-municipal-projectara-la-casa-coll-i-regas/"
+  headline: "A Berga, després d’haver deixat el càrrec d’arquitecte municipal, projectarà la Serarols & Associats"
+  image: 
+    type: "ImageObject"
+    url: "/images/11-casa-coll-i-regas-web.jpg"
+    height: 1539
+    width: 1024
+  datePublished: "2016-04-21T11:37:00+02:00"
+  dateModified: "2016-04-21T11:37:00+02:00"
+  author: 
+    type: "Person"
+    name: "Manel Salicrú i Puig"
+  publisher: 
+    type: "Organization"
+    name: "Estudi Jurídic Econòmic"
+    logo: 
+      type: "ImageObject"
+      url: "/iamges/logo-fundacio-iluro-amp.png"
+      width: 600
+      height: 60
+  description: "A Berga, després d’haver deixat el càrrec d’arquitecte municipal, projectarà la Serarols & Associats (1898) al carrer d’Argentona. I a Argentona la seva pròpia casa (1897-1905), Can Garí del Cros (1897) i la capella del Sagrament de l’església parroquial de Sant Julià."
+  description-2: "També treballa intensament a Barcelona. Construeix moltes cases emblemàtiques al nou eixampla barceloní, la casa Ametller (1900) al passeig de Gràcia, la casa Macaya (1904), al passeig de Sant Joan, la casa Trinxet (1904), desapareguda, al carrer de Còrsega , la casa de les Punxes (1905) a l’avinguda Diagonal, la casa Serra (1907) a la rambla de Catalunya, ara seu de la Diputació de Barcelona. També la casa dels Quatre Gats (1897), al carrer de Montsió, i la Creu del cinquè misteri de Dolor del Rosari de Montserrat, amb col·laboració de l’escultor Josep Llimona. L’any 1913 construeix la fàbrica Casarramona, a Montjuïc, ara seu de l’obra cultural de La Caixa."
+  description-3: 
+  post: "true"
+  id: 11
+- context: "http://schema.org"
+  type: "Article"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "/articles/2016/05/05/des-de-molt-jove-josep-puig-i-cadafalch-participa-en-la-politica-catalanista/"
+  headline: "Des de molt jove, Josep Puig i Cadafalch, participa en la política catalanista"
+  image: 
+    type: "ImageObject"
+    url: "/images/12-casa-coll-i-regas-web.jpg"
+    height: 1539
+    width: 1024
+  datePublished: "2016-04-21T11:37:00+02:00"
+  dateModified: "2016-04-21T11:37:00+02:00"
+  author: 
+    type: "Person"
+    name: "Manel Salicrú i Puig"
+  publisher: 
+    type: "Organization"
+    name: "Estudi Jurídic Econòmic"
+    logo: 
+      type: "ImageObject"
+      url: "/iamges/logo-fundacio-iluro-amp.png"
+      width: 600
+      height: 60
+  description: "Des de molt jove, Josep Puig i Cadafalch, participa en la política catalanista. L’any 1901 participa en la creació de la Lliga Regionalista junt amb Prat de la Riba i Cambó. L’any 1902 és elegit regidor de l’Ajuntament de Barcelona i el 1907 diputat a Madrid, quan el gran moviment de la Solidaritat Catalana. Des del 1913 és diputat provincial."
+  description-2: "L’any 1907 es va crear l’Institut d’Estudis Catalans, institució de la més alta cultura  de Catalunya, de la que Puig i Cadafal"
+  description-3: 
+  post: "true"
+  id: 12
+- context: "http://schema.org"
+  type: "Article"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "/articles/2016/05/05/la-mancomunitat-de-catalunya-agrupacio-de-les-quatre-diputacions-catalanes-es-va-constituir-l-any-1914/"
+  headline: "La Mancomunitat de Catalunya, agrupació de les quatre diputacions catalanes, es va constituir l’any 1914"
+  image: 
+    type: "ImageObject"
+    url: "/images/13-casa-coll-i-regas-web.jpg"
+    height: 1539
+    width: 1024
+  datePublished: "2016-04-21T11:37:00+02:00"
+  dateModified: "2016-04-21T11:37:00+02:00"
+  author: 
+    type: "Person"
+    name: "Manel Salicrú i Puig"
+  publisher: 
+    type: "Organization"
+    name: "Estudi Jurídic Econòmic"
+    logo: 
+      type: "ImageObject"
+      url: "/iamges/logo-fundacio-iluro-amp.png"
+      width: 600
+      height: 60
+  description: "La Mancomunitat de Catalunya, agrupació de les quatre diputacions catalanes, es va constituir l’any 1914. Era presidida per Enric Prat de la Riba i, a la mort d’aquest el 1917, Josep Puig i Cadafalch va ésser elegit nou president."
+  description-2: "Tot i els seus pocs recursos, la Mancomunitat va fer una gran feina per a la consolidació del país; es basava en dues línies d’actuació, la primera la vertebració de Catalunya, construint infraestructures i serveis, i la segona la promoció de la llengua i de la cultura catalanes."
+  description-3: 
+  post: "true"
+  id: 13
+- context: "http://schema.org"
+  type: "Article"
+  mainEntityOfPage: 
+    type: "WebPage"
+    id: "/articles/2016/05/05/puig-i-cadafalch-va-morir-a-barcelona-el-22-de-desembre-de-1956/"
+  headline: "Puig i Cadafalch va morir a Barcelona el 22 de desembre de 1956"
+  image: 
+    type: "ImageObject"
+    url: "/images/14-casa-coll-i-regas-web.jpg"
+    height: 1539
+    width: 1024
+  datePublished: "2016-04-21T11:37:00+02:00"
+  dateModified: "2016-04-21T11:37:00+02:00"
+  author: 
+    type: "Person"
+    name: "Manel Salicrú i Puig"
+  publisher: 
+    type: "Organization"
+    name: "Estudi Jurídic Econòmic"
+    logo: 
+      type: "ImageObject"
+      url: "/iamges/logo-fundacio-iluro-amp.png"
+      width: 600
+      height: 60
+  description: "Puig i Cadafalch va morir a Barcelona el 22 de desembre de 1956, als vuitanta-nou anys. Per pròpia voluntat va ésser enterrat a Berga, el dia de Nadal al matí, al nínxol familiar del cementiri dels Caputxins."
+  description-2: "Havia estat una persona important i un intel·lectual amb gran capacitat de treball i de molt caràcter, fins i tot amb trets de gran duresa formal. Però per sobre de tot prevalia el seu sentiment de pàtria i la seva opció per Catalunya."
+  description-3: 
+  post: "true"
+  id: 14
