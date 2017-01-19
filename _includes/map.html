@@ -1,7 +1,7 @@
     <!-- Map Section -->
         {% assign place_data = site.data.places | where:"id", 2 %}
         {% assign place = place_data | first %}
-        <google-map latitude="{{ place.latitude }}" longitude="{{ place.longitude }}" fitToMarkers disableDefaultUI zoom="15" id="mapa">
+        <google-map latitude="{{ place.latitude }}" longitude="{{ place.longitude }}" api-key="{{ place.apyKey }}" fitToMarkers disableDefaultUI zoom="15" id="mapa">
             <google-map-marker latitude="{{ place.latitude }}" longitude="{{ place.longitude }}"
             title="{{ place.name }}" draggable="false" icon="{{ site.url }}/favicon.ico">
                 <p><strong>{{ place.name }}</strong></p>

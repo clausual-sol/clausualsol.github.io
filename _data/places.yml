@@ -20,4 +20,5 @@ pagament, comissions, SWAPS, execucions hipotecàries, renegociacions de deute..
   getdirections: "https://www.google.cat/maps/dir//Carrer+Francesc+Macià,+10,+08600+Berga,+Barcelona/"
   latitude: 42.0974522
   longitude: 1.843662
+  apyKey: AIzaSyAjze8m-r61sJcLz0yeN2D9g-qBzd7ffoA
   id: 2
