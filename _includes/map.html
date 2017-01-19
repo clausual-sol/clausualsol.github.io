@@ -6,6 +6,6 @@
             title="{{ place.name }}" draggable="false" icon="{{ site.url }}/favicon.ico">
                 <p><strong>{{ place.name }}</strong></p>
                 <p><small><strong>Adreça:</strong> {{ place.address }}<br/><strong>Telèfon:</strong> <a href="tel:{{ place.phone }}">{{ place.phone | slice: 4, 9 }}</a> | <strong><a href="{{ place.getdirections }}">Com arribar-hi?</a></strong></small></p>
-                <p><small><a href="{{ place.url }}" title="{{ place.name }}" rel="external">url</a> | <a href="mailto:{{ place.email }}" title="Correo-e {{ place.email }}" rel="external">e</a></small></p>
+                <p><small><a href="{{ place.url }}" title="{{ place.name }}" rel="external">url</a> | <a href="mailto:{{ place.email }}" title="Correo-e {{ place.email }}" rel="external">e</a> | <a href="{{ place.facebook }}" title="Facebook de {{ place.name }}" rel="external">f</a></small></p>
             </google-map-marker>
         </google-map>
