@@ -8,7 +8,7 @@ title: Polítíca de cookies
 
 Una cookie es un fichero que se descarga en su ordenador al acceder a determinadas páginas web. Las cookies permiten a una página web, entre otras cosas, almacenar y recuperar información sobre hábitos de navegación de un usuario o de su equipo y, dependiendo de la información que contengan y de la forma que utilice su equipo, pueden utilizarse para reconocer al usuario.
 
-## Pe a qué utilizta cookies aquest lloc wweb?
+## Pe a qué utilizta cookies aquest lloc web?
 
 Esta página web utiliza las cookies para una serie de finalidades, incluidas:
 Análisis: son aquellas cookies que bien, tratadas por nosotros o por terceros, nos permiten cuantificar el número de usuarios y así realizar la medición y análisis estadístico de la utilización que hacen los usuarios del servicio. Para ello se analiza su navegación en nuestra página web con el fin de mejorar la experiencia del usuario..
