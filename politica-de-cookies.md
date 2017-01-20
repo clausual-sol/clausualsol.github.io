@@ -6,12 +6,20 @@ title: Polítíca de cookies
 
 ## Què són les cookies?
 
-Una cookie es un fichero que se descarga en su ordenador al acceder a determinadas páginas web. Las cookies permiten a una página web, entre otras cosas, almacenar y recuperar información sobre hábitos de navegación de un usuario o de su equipo y, dependiendo de la información que contengan y de la forma que utilice su equipo, pueden utilizarse para reconocer al usuario.
+Una galeta és un fitxer que es descarrega al seu ordinador en accedir a determinades pàgines web. Les cookies permeten a una pàgina web, entre altres coses, emmagatzemar i recuperar informació sobre hàbits de navegació d'un usuari o del seu equip i, depenent de la informació que continguin i de la forma que utilitzi el seu equip, es poden utilitzar per reconèixer a l'usuari.
 
 ## Pe a qué utilizta cookies aquest lloc web?
 
-Esta página web utiliza las cookies para una serie de finalidades, incluidas:
-Análisis: son aquellas cookies que bien, tratadas por nosotros o por terceros, nos permiten cuantificar el número de usuarios y así realizar la medición y análisis estadístico de la utilización que hacen los usuarios del servicio. Para ello se analiza su navegación en nuestra página web con el fin de mejorar la experiencia del usuario..
+Aquesta pàgina web utilitza les cookies per a una sèrie de finalitats, incloses:
+Anàlisi: són aquelles cookies que bé, tractades per nosaltres o per tercers, ens permeten quantificar el nombre d'usuaris i així realitzar el mesurament i anàlisi estadística de la utilització que fan els usuaris del servei. Per això s'analitza la seva navegació a la nostra pàgina web per tal de millorar l'experiència de l'usuari.
+
+El detall de les cookies utilitzades en aquesta pàgina web és el següent:
+
+ Cookies | Nom | Propòsit | Més infnormació 
+ --- | --- | --- | --- 
+ _ga _gat | Google analytics | de tercers | Recollir informació sobre la navegació dels usuaris pel lloc per tal de conèixer l'origen de les visites i altres dades similars a nivell estadístic. No obté dades dels noms o cognoms dels usuaris ni de l'adreça postal concreta des d'on es connecten. | [Google Analytics Centro de privacidad de Google](http://www.google.com/intl/es/policies/privacy/) 
+
+Nota: Les galetes de tipus 'pròpies' són utilitzades només pel propietari d'aquesta web i les galetes 'De tercers' són utilitzades, pel prestador del servei que està detallat en el quadre anterior.
 
 ## Com puc desactivar o eliminar aquestes galetes?
 

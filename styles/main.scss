@@ -446,6 +446,63 @@ hr {
     -moz-animation-timing-function: linear;
 }
 
+.content-section table {
+    margin-bottom: 20px;
+    width: 100%;
+}
+.content-section table {
+    background-color: rgba(0, 0, 0, 0);
+    max-width: 100%;
+}
+.content-section table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.content-section table caption + thead tr:first-child th,
+.content-section table colgroup + thead tr:first-child th,
+.content-section table thead:first-child tr:first-child th,
+.content-section table caption + thead tr:first-child td,
+.content-section table colgroup + thead tr:first-child td,
+.content-section table thead:first-child tr:first-child td {
+    border-top: 0 none;
+}
+.content-section table thead > tr > th,
+.altres-altre table thead > tr > th {
+    border-bottom: 2px solid #DDDDDD;
+    vertical-align: bottom;
+}
+.content-section table thead > tr > th,
+.content-section table tbody > tr > th,
+.content-section table tfoot > tr > th,
+.content-section table thead > tr > td,
+.content-section table tbody > tr > td,
+.content-section table tfoot > tr > td {
+    border-top: 1px solid #DDDDDD;
+    line-height: 1.42857;
+    padding: 8px;
+    vertical-align: top;
+}
+th {
+    text-align: left;
+}
+
+.content-section table > tbody > tr:nth-child(2n+1) > td,
+.content-section table > tbody > tr:nth-child(2n+1) > th {
+    background-color: #F9F9F9;
+}
+.content-section table thead > tr > th,
+.content-section table tbody > tr > th,
+.content-section table tfoot > tr > th,
+.content-section table thead > tr > td,
+.content-section table tbody > tr > td,
+.content-section table tfoot > tr > td {
+    border-top: 1px solid #DDDDDD;
+    line-height: 1.42857;
+    padding: 8px;
+    vertical-align: top;
+}
+
 @-webkit-keyframes pulse {    
     0% {
         -webkit-transform: scale(1);
