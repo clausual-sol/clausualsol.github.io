@@ -15,8 +15,8 @@ Anàlisi: són aquelles cookies que bé, tractades per nosaltres o per tercers, 
 
 El detall de les cookies utilitzades en aquesta pàgina web és el següent:
 
- Cookies | Nom | Propòsit | Més infnormació 
- --- | --- | --- | --- 
+ Cookies | Nom | Tipus | Propòsit | Més infnormació 
+ --- | --- | --- | --- | ---
  _ga _gat | Google analytics | de tercers | Recollir informació sobre la navegació dels usuaris pel lloc per tal de conèixer l'origen de les visites i altres dades similars a nivell estadístic. No obté dades dels noms o cognoms dels usuaris ni de l'adreça postal concreta des d'on es connecten. | [Google Analytics Centro de privacidad de Google](http://www.google.com/intl/es/policies/privacy/) 
 
 Nota: Les galetes de tipus 'pròpies' són utilitzades només pel propietari d'aquesta web i les galetes 'De tercers' són utilitzades, pel prestador del servei que està detallat en el quadre anterior.
