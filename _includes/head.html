@@ -10,9 +10,11 @@
     <title>{% if page.title == 'Home' %}{{ site.title }}{% else %}{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.description }} | {{ site.title }}{% endif %}{% endif %}</title>
 
     {% if page.og %}
+
+  <meta property="fb:app_id" content="1064356173625695"/>
   <meta property="og:title" content="{{ page.title | strip_html | strip_newlines | truncate: 160 }} &ndash; {% if page.category != '' %}{{ page.category }}{% endif %} &middot; {{ site.title }}" />
   <meta property="og:type" content="{{ page.og-type }}" />
-  <meta property="og:url" content="{{ site.url }}/{{ page.url }}" />      
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />      
       {% if page.category == 'articles' %}
           {% assign article_data = site.data.articles | where:"id", page.article %}
           {% assign article = article_data | first %}
@@ -26,6 +28,19 @@
           <meta name="twitter:description" content="{{ article.description | strip_html | strip_newlines | truncate: 160 }}">
           <meta name="twitter:image:src" content="{{ site.url }}/{{ article.image.url }}">
       {% endif %}
+
+      {% if page.class == '' %}
+          <meta property="og:image" content="{{ site.url }}/images/01-clausula-sol-web.jpg" />
+          <meta property="og:description" content="{{ site.title }}. {{ site.description | strip_html | strip_newlines | truncate: 160 }}. {{ site.second-description | strip_html | strip_newlines | truncate: 160 }}" />
+
+          <meta name="twitter:card" content="summary_large_image">
+          <meta name="twitter:site" content="@{{ site.twitter }}">
+          <meta name="twitter:creator" content="@{% if page.twitter-username %}{{ page.twitter-username }}{% else %}{{ site.twitter }}{% endif %}">
+          <meta name="twitter:title" content="{{ page.title | strip_html | strip_newlines | truncate: 160 }} &ndash; {% if page.category != '' %}{{ page.category }}{% endif %} &middot; {{ site.title }}">
+          <meta name="twitter:description" content="{{ site.title }}. {{ site.description | strip_html | strip_newlines | truncate: 160}}. {{ site.second-description | strip_html | strip_newlines | truncate: 160 }}">
+          <meta name="twitter:image:src" content="{{ site.url }}/images/01-clausula-sol-web.jpg">
+      {% endif %}
+
     {% endif %}
 
     <link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
