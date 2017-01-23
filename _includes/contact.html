@@ -7,7 +7,7 @@
                         <div class="col-lg-8 col-lg-offset-2">
                             <h2>Posa’t en contacte amb nosaltres sense compromís</h2>
                             <div class="text-left">
-                                <form method="POST" action="https://formspree.io/info@estudieconomic.com">
+                                <form method="POST" name="clausulaForm" onsubmit="return validateForm()" action="https://formspree.io/info@estudieconomic.com">
                                     <input type="hidden" name="_next" value="/gracies/" />
                                     <input type="hidden" name="_subject" value="Nova consulta del web clàusula sòl" />
                                     <input type="text" name="_gotcha" style="display:none" />
@@ -33,7 +33,7 @@
                                     </div>
                                     <div class="checkbox">
                                         <label>
-                                        <input type="checkbox" required>Accepto la Política de privacitat
+                                        <input type="checkbox" name="fname"required>Accepto la Política de privacitat
                                         </label>
                                     </div>
                                     <button type="submit" class="btn btn-default">Enviar</button>
